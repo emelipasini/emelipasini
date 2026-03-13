@@ -1,24 +1,27 @@
-<h1 align="center">Hi there 👋, I'm Emelí. Thank you for visiting my profile</h1>
-<h3 align="center">A passionate backend developer from Argentina living in Germany</h3>
+# Hi there, I'm Emelí! 🚀
 
-- 👯 I’m looking to collaborate on **open source projects that are suitable for beginners.**
-- 🤝 I’m looking for help **finding a new job in this new country.**
-- 📫 How to reach me **emelipasini@gmail.com**
+### Full Stack Developer | Backend Enthusiast | Clean Code Advocate
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>
+I am a software developer based in Germany with 2+ years of professional experience building scalable APIs and performance-driven applications. My background in Astronomy has honed my analytical thinking and problem-solving skills, which I now apply to crafting elegant code and efficient systems.
 
-<h3 align="left">Stats:</h3>
+## 🛠️ Tech Stack
 
-![Github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emelipasini&theme=github_dark)
+- Backend: Node.js (TypeScript/JavaScript), Python, C# (ASP.NET).
+- Databases: PostgreSQL, MongoDB, Oracle.
+- Testing & DevOps: Jest, TDD, Git, Swagger, Agile/Scrum.
+- Frontend: React, Angular, HTML5, CSS3/SCSS.
+- Languages: Spanish (Native), English (Fluent), German (B1).
+
+## 📈 Professional Highlights
+
+- Backend Architecture: Developed robust APIs using ASP.NET and Node.js, focusing on seamless data exchange and high performance.
+- Code Modernization: Successfully migrated legacy projects from JavaScript to TypeScript and upgraded React environments to improve maintainability.
+- Quality First: Strong advocate for Test-Driven Development (TDD) and Clean Code principles to ensure reliable and scalable software.
+- Mentorship: Served as a Teaching Assistant for Full Stack bootcamps, helping new developers master technical concepts.
+
+## 🧪 Current Focus
+- 🌍 Improving my German language skills.
+- 🏗️ Adding a new API to my portfolio to showcase my technical skills.
+- 💻 Deepening my knowledge in modern web development.
+
+*"I believe in writing code that is not just functional, but built to last."*
